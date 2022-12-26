@@ -1,7 +1,0 @@
-#EXTM3U
-#EXTINF:0, ▁ ▂ ▄ ▅ ▆ ▇ █ ULUSAL KANALLARI █ ▇ ▆ ▅ ▄ ▂ ▁
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1660250534/ei/RRX1YuPkMc_u1gKVuaLgAw/ip/78.167.126.26/id/qy97KCSNzUU.3/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/rr3---sn-u0g3uxax3-qpte.googlevideo.com/playlist_duration/30/manifest_duration/30/spc/lT-Khki8Jil7pmrcIS7akkbocSN9buY/vprv/1/playlist_type/DVR/initcwndbps/757500/mh/1J/mm/44/mn/sn-u0g3uxax3-qpte/ms/lva/mv/m/mvi/3/pl/24/dover/11/pacing/0/keepalive/yes/fexp/24001373,24007246/mt/1660228590/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AOq0QJ8wRQIgStewRViSCHbWDQVV1zh5HLmRdCyfIGdBegMLuVZ83gECIQCHi8C06aDT9TL85KEhyUVcvZLB2I819ZjSZnsq3JaW2w%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIgWhxlSXS3NdSbOJpy3L42hxfUccD6xeizj12oUPlfi68CIQCCJroClhlWxNuZnT0O03PJ92oFCO9r7k4Q8GZK9rzePw%3D%3D/playlist/index.m3u8
-#EXTINFNEXTMEDIA:0,TR: Atv
-https://cdn.anonserver.monster/702/index.m3u8| useragent=ExoPlayerDemo/1.14 (Linux;Android 9) ExoPlayerLib/1.5.11| ASP.NET_SessionId=dt2zddk32q0rwo7rdmev4u2m;emwId=d35cb6a8-1af5-4331-b2b0-651b839899fc;eSessionId=0
-
-
